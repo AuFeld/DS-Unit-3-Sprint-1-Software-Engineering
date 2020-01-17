@@ -4,9 +4,9 @@
   
 In my opinion, the ability to share knowledge and to convey how someone went 
 from "Point A" to "Point B" is the most important part of code reviews.   
-You can be a great chef, but if you're writing a cook book and you can't 
-effectively communicate all the steps to cook a great meal. Then the reader
-will not be able to cook the great meal. 
+Eg, you can be a great chef, but if you're writing a cook book and you can't 
+effectively describe all of the steps to cook a great meal. Then the reader
+will be unable to cook the great meal that the chef has created. 
 
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
