@@ -1,0 +1,19 @@
+- What, in your opinion, is an important part of code reviews? That is, what is
+  something you pay attention to when you review code, and that you appreciate
+  when others do the same for your code?
+  
+In my opinion, the ability to share knowledge and to convey how someone went 
+from "Point A" to "Point B" is the most important part of code reviews.   
+You can be a great chef, but if you're writing a cook book and you can't 
+effectively communicate all the steps to cook a great meal. Then the reader
+will not be able to cook the great meal. 
+
+- We have an awful lot of computers here, and it gets pretty confusing with
+  slightly different things running on all of them. How could containers help us
+  improve this situation?
+
+Just like docker's logo, a whale in the shape of a cargo ship loaded with containers
+represents that an individual can store any type of application to be deployed in 
+many different types of environments. Eg, for my past hackathon, the docker module 
+would have been very useful when my team mate and I were trying to share what we built
+with our other team mates who were in UX and Web Dev. 
