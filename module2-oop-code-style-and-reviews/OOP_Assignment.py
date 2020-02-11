@@ -9,7 +9,7 @@ class Rectangle:
 
     def area (self):
         """
-        measure the are of the rectangle
+        measure the area of the rectangle
         """
         return self.length * self.width
 
